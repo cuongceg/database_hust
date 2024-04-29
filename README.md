@@ -1,2 +1,2 @@
 # database_hust
-Practical Reference Solutio
+Practical Reference Solution
